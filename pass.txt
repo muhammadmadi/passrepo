@@ -1,5 +1,5 @@
 {
   "username": "momo",
-  "password": "passasdgh1j",
+  "password": "123",
   "version": "0.1.0"
 }
